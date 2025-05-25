@@ -1,6 +1,6 @@
 <div align="center">
 
-![Galletas SMP Logo](../images/title.png)
+![Galletas SMP Logo](https://raw.githubusercontent.com/GalletasSMP/.github/refs/heads/main/images/title.png)
 
 **Galletas SMP** es un servidor de Minecraft estilo Vanilla con un toque RPG para jugar y pasarlo bien con tus amigos/as.
 
